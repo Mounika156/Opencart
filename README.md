@@ -1,9 +1,9 @@
-# 🛒 OpenCart E-Commerce Testing Project
+#  OpenCart E-Commerce Testing Project
 
 This repository contains the test scripts for testing an OpenCart-based E-Commerce Website. The project is focused on both Manual Testing and Automation Testing using Selenium WebDriver, covering real-world scenarios across the application.
 
 
-##  Project Objective
+#  Project Objective
 
 To ensure the quality and reliability of an OpenCart e-commerce application by validating core functionalities like:
 
